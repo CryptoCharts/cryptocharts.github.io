@@ -8,14 +8,6 @@ body {
 	align-content: center;
 }
 
-grid {
-	display: grid;
-	align-content: center;
-	outline: none;
-	border-color: transparent;
-}
-
-
 div {
 	align-content: center;
 }
